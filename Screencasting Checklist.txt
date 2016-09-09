@@ -1,6 +1,15 @@
 Screencasting Checklist
 
+Before:
+
 * Set Sublime Text text-height so that one 1920x1080 document shows 30 full lines of text.
+
+
+After: 
+
+* Apply colorization.
+* Make sure intro makes sense in relation to tutorial.
+
 
 
 
