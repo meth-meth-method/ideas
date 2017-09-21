@@ -3,6 +3,7 @@ Screencasting Checklist
 Before:
 
 * Set Sublime Text text-height so that one 1920x1080 document shows 30 full lines of text.
+* Set Developer Tools font size to Default + 3.
 
 
 After: 
