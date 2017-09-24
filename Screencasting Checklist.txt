@@ -5,7 +5,7 @@ Before:
 * Set Sublime Text text-height so that one 1920x1080 document shows 30 full lines of text.
 * Set Developer Tools font size to Default + 3.
 * Set terminal font to 28.
-* Set Windown screen scaling to 125%.
+* Open Google Chrome in guest mode.
 
 After: 
 
