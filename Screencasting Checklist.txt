@@ -10,6 +10,7 @@ Before:
 After: 
 
 * Apply colorization.
+* Turn off resampling for screen grabs.
 * Make sure intro makes sense in relation to tutorial.
 
 
